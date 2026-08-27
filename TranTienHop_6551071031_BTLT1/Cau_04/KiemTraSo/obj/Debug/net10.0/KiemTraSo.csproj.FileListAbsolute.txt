@@ -1,0 +1,15 @@
+D:\IT\WinForm\BTLT1\Cau_04\KiemTraSo\bin\Debug\net10.0\KiemTraSo.exe
+D:\IT\WinForm\BTLT1\Cau_04\KiemTraSo\bin\Debug\net10.0\KiemTraSo.deps.json
+D:\IT\WinForm\BTLT1\Cau_04\KiemTraSo\bin\Debug\net10.0\KiemTraSo.runtimeconfig.json
+D:\IT\WinForm\BTLT1\Cau_04\KiemTraSo\bin\Debug\net10.0\KiemTraSo.dll
+D:\IT\WinForm\BTLT1\Cau_04\KiemTraSo\bin\Debug\net10.0\KiemTraSo.pdb
+D:\IT\WinForm\BTLT1\Cau_04\KiemTraSo\obj\Debug\net10.0\KiemTraSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\WinForm\BTLT1\Cau_04\KiemTraSo\obj\Debug\net10.0\KiemTraSo.AssemblyInfoInputs.cache
+D:\IT\WinForm\BTLT1\Cau_04\KiemTraSo\obj\Debug\net10.0\KiemTraSo.AssemblyInfo.cs
+D:\IT\WinForm\BTLT1\Cau_04\KiemTraSo\obj\Debug\net10.0\KiemTraSo.csproj.CoreCompileInputs.cache
+D:\IT\WinForm\BTLT1\Cau_04\KiemTraSo\obj\Debug\net10.0\KiemTraSo.dll
+D:\IT\WinForm\BTLT1\Cau_04\KiemTraSo\obj\Debug\net10.0\refint\KiemTraSo.dll
+D:\IT\WinForm\BTLT1\Cau_04\KiemTraSo\obj\Debug\net10.0\KiemTraSo.pdb
+D:\IT\WinForm\BTLT1\Cau_04\KiemTraSo\obj\Debug\net10.0\KiemTraSo.genruntimeconfig.cache
+D:\IT\WinForm\BTLT1\Cau_04\KiemTraSo\obj\Debug\net10.0\ref\KiemTraSo.dll
+D:\IT\WinForm\BTLT1\Cau_04\KiemTraSo\obj\Debug\net10.0\KiemTraSo.csproj.Up2Date

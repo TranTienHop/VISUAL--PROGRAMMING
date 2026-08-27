@@ -1,0 +1,15 @@
+D:\IT\WinForm\BTLT1\Cau_02\MayTinhDonGian\bin\Debug\net10.0\MayTinhDonGian.exe
+D:\IT\WinForm\BTLT1\Cau_02\MayTinhDonGian\bin\Debug\net10.0\MayTinhDonGian.deps.json
+D:\IT\WinForm\BTLT1\Cau_02\MayTinhDonGian\bin\Debug\net10.0\MayTinhDonGian.runtimeconfig.json
+D:\IT\WinForm\BTLT1\Cau_02\MayTinhDonGian\bin\Debug\net10.0\MayTinhDonGian.dll
+D:\IT\WinForm\BTLT1\Cau_02\MayTinhDonGian\bin\Debug\net10.0\MayTinhDonGian.pdb
+D:\IT\WinForm\BTLT1\Cau_02\MayTinhDonGian\obj\Debug\net10.0\MayTinhDonGian.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\WinForm\BTLT1\Cau_02\MayTinhDonGian\obj\Debug\net10.0\MayTinhDonGian.AssemblyInfoInputs.cache
+D:\IT\WinForm\BTLT1\Cau_02\MayTinhDonGian\obj\Debug\net10.0\MayTinhDonGian.AssemblyInfo.cs
+D:\IT\WinForm\BTLT1\Cau_02\MayTinhDonGian\obj\Debug\net10.0\MayTinhDonGian.csproj.CoreCompileInputs.cache
+D:\IT\WinForm\BTLT1\Cau_02\MayTinhDonGian\obj\Debug\net10.0\MayTinhDonGian.dll
+D:\IT\WinForm\BTLT1\Cau_02\MayTinhDonGian\obj\Debug\net10.0\refint\MayTinhDonGian.dll
+D:\IT\WinForm\BTLT1\Cau_02\MayTinhDonGian\obj\Debug\net10.0\MayTinhDonGian.pdb
+D:\IT\WinForm\BTLT1\Cau_02\MayTinhDonGian\obj\Debug\net10.0\MayTinhDonGian.genruntimeconfig.cache
+D:\IT\WinForm\BTLT1\Cau_02\MayTinhDonGian\obj\Debug\net10.0\ref\MayTinhDonGian.dll
+D:\IT\WinForm\BTLT1\Cau_02\MayTinhDonGian\obj\Debug\net10.0\MayTinhD.9BA5E8CD.Up2Date

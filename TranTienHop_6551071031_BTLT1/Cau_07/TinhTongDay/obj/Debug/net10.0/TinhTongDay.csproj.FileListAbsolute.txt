@@ -1,0 +1,15 @@
+D:\IT\WinForm\BTLT1\Cau_07\TinhTongDay\bin\Debug\net10.0\TinhTongDay.exe
+D:\IT\WinForm\BTLT1\Cau_07\TinhTongDay\bin\Debug\net10.0\TinhTongDay.deps.json
+D:\IT\WinForm\BTLT1\Cau_07\TinhTongDay\bin\Debug\net10.0\TinhTongDay.runtimeconfig.json
+D:\IT\WinForm\BTLT1\Cau_07\TinhTongDay\bin\Debug\net10.0\TinhTongDay.dll
+D:\IT\WinForm\BTLT1\Cau_07\TinhTongDay\bin\Debug\net10.0\TinhTongDay.pdb
+D:\IT\WinForm\BTLT1\Cau_07\TinhTongDay\obj\Debug\net10.0\TinhTongDay.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\WinForm\BTLT1\Cau_07\TinhTongDay\obj\Debug\net10.0\TinhTongDay.AssemblyInfoInputs.cache
+D:\IT\WinForm\BTLT1\Cau_07\TinhTongDay\obj\Debug\net10.0\TinhTongDay.AssemblyInfo.cs
+D:\IT\WinForm\BTLT1\Cau_07\TinhTongDay\obj\Debug\net10.0\TinhTongDay.csproj.CoreCompileInputs.cache
+D:\IT\WinForm\BTLT1\Cau_07\TinhTongDay\obj\Debug\net10.0\TinhTongDay.dll
+D:\IT\WinForm\BTLT1\Cau_07\TinhTongDay\obj\Debug\net10.0\refint\TinhTongDay.dll
+D:\IT\WinForm\BTLT1\Cau_07\TinhTongDay\obj\Debug\net10.0\TinhTongDay.pdb
+D:\IT\WinForm\BTLT1\Cau_07\TinhTongDay\obj\Debug\net10.0\TinhTongDay.genruntimeconfig.cache
+D:\IT\WinForm\BTLT1\Cau_07\TinhTongDay\obj\Debug\net10.0\ref\TinhTongDay.dll
+D:\IT\WinForm\BTLT1\Cau_07\TinhTongDay\obj\Debug\net10.0\TinhTong.DF5647D3.Up2Date

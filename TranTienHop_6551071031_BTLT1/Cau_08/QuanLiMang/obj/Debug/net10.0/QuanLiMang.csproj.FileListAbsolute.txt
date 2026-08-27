@@ -1,0 +1,15 @@
+D:\IT\WinForm\BTLT1\Cau_08\QuanLiMang\bin\Debug\net10.0\QuanLiMang.exe
+D:\IT\WinForm\BTLT1\Cau_08\QuanLiMang\bin\Debug\net10.0\QuanLiMang.deps.json
+D:\IT\WinForm\BTLT1\Cau_08\QuanLiMang\bin\Debug\net10.0\QuanLiMang.runtimeconfig.json
+D:\IT\WinForm\BTLT1\Cau_08\QuanLiMang\bin\Debug\net10.0\QuanLiMang.dll
+D:\IT\WinForm\BTLT1\Cau_08\QuanLiMang\bin\Debug\net10.0\QuanLiMang.pdb
+D:\IT\WinForm\BTLT1\Cau_08\QuanLiMang\obj\Debug\net10.0\QuanLiMang.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\WinForm\BTLT1\Cau_08\QuanLiMang\obj\Debug\net10.0\QuanLiMang.AssemblyInfoInputs.cache
+D:\IT\WinForm\BTLT1\Cau_08\QuanLiMang\obj\Debug\net10.0\QuanLiMang.AssemblyInfo.cs
+D:\IT\WinForm\BTLT1\Cau_08\QuanLiMang\obj\Debug\net10.0\QuanLiMang.csproj.CoreCompileInputs.cache
+D:\IT\WinForm\BTLT1\Cau_08\QuanLiMang\obj\Debug\net10.0\QuanLiMang.dll
+D:\IT\WinForm\BTLT1\Cau_08\QuanLiMang\obj\Debug\net10.0\refint\QuanLiMang.dll
+D:\IT\WinForm\BTLT1\Cau_08\QuanLiMang\obj\Debug\net10.0\QuanLiMang.pdb
+D:\IT\WinForm\BTLT1\Cau_08\QuanLiMang\obj\Debug\net10.0\QuanLiMang.genruntimeconfig.cache
+D:\IT\WinForm\BTLT1\Cau_08\QuanLiMang\obj\Debug\net10.0\ref\QuanLiMang.dll
+D:\IT\WinForm\BTLT1\Cau_08\QuanLiMang\obj\Debug\net10.0\QuanLiMang.csproj.Up2Date

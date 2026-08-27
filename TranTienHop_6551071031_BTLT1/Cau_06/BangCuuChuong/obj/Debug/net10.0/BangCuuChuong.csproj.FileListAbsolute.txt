@@ -1,0 +1,15 @@
+D:\IT\WinForm\BTLT1\Cau_06\BangCuuChuong\bin\Debug\net10.0\BangCuuChuong.exe
+D:\IT\WinForm\BTLT1\Cau_06\BangCuuChuong\bin\Debug\net10.0\BangCuuChuong.deps.json
+D:\IT\WinForm\BTLT1\Cau_06\BangCuuChuong\bin\Debug\net10.0\BangCuuChuong.runtimeconfig.json
+D:\IT\WinForm\BTLT1\Cau_06\BangCuuChuong\bin\Debug\net10.0\BangCuuChuong.dll
+D:\IT\WinForm\BTLT1\Cau_06\BangCuuChuong\bin\Debug\net10.0\BangCuuChuong.pdb
+D:\IT\WinForm\BTLT1\Cau_06\BangCuuChuong\obj\Debug\net10.0\BangCuuChuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\WinForm\BTLT1\Cau_06\BangCuuChuong\obj\Debug\net10.0\BangCuuChuong.AssemblyInfoInputs.cache
+D:\IT\WinForm\BTLT1\Cau_06\BangCuuChuong\obj\Debug\net10.0\BangCuuChuong.AssemblyInfo.cs
+D:\IT\WinForm\BTLT1\Cau_06\BangCuuChuong\obj\Debug\net10.0\BangCuuChuong.csproj.CoreCompileInputs.cache
+D:\IT\WinForm\BTLT1\Cau_06\BangCuuChuong\obj\Debug\net10.0\BangCuuChuong.dll
+D:\IT\WinForm\BTLT1\Cau_06\BangCuuChuong\obj\Debug\net10.0\refint\BangCuuChuong.dll
+D:\IT\WinForm\BTLT1\Cau_06\BangCuuChuong\obj\Debug\net10.0\BangCuuChuong.pdb
+D:\IT\WinForm\BTLT1\Cau_06\BangCuuChuong\obj\Debug\net10.0\BangCuuChuong.genruntimeconfig.cache
+D:\IT\WinForm\BTLT1\Cau_06\BangCuuChuong\obj\Debug\net10.0\ref\BangCuuChuong.dll
+D:\IT\WinForm\BTLT1\Cau_06\BangCuuChuong\obj\Debug\net10.0\BangCuuC.B907928F.Up2Date

@@ -1,0 +1,15 @@
+D:\IT\WinForm\BTLT1\Cau_03\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.exe
+D:\IT\WinForm\BTLT1\Cau_03\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.deps.json
+D:\IT\WinForm\BTLT1\Cau_03\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.runtimeconfig.json
+D:\IT\WinForm\BTLT1\Cau_03\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.dll
+D:\IT\WinForm\BTLT1\Cau_03\ChuyenDoiNhietDo\bin\Debug\net10.0\ChuyenDoiNhietDo.pdb
+D:\IT\WinForm\BTLT1\Cau_03\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\WinForm\BTLT1\Cau_03\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.AssemblyInfoInputs.cache
+D:\IT\WinForm\BTLT1\Cau_03\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.AssemblyInfo.cs
+D:\IT\WinForm\BTLT1\Cau_03\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.csproj.CoreCompileInputs.cache
+D:\IT\WinForm\BTLT1\Cau_03\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.dll
+D:\IT\WinForm\BTLT1\Cau_03\ChuyenDoiNhietDo\obj\Debug\net10.0\refint\ChuyenDoiNhietDo.dll
+D:\IT\WinForm\BTLT1\Cau_03\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.pdb
+D:\IT\WinForm\BTLT1\Cau_03\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDoiNhietDo.genruntimeconfig.cache
+D:\IT\WinForm\BTLT1\Cau_03\ChuyenDoiNhietDo\obj\Debug\net10.0\ref\ChuyenDoiNhietDo.dll
+D:\IT\WinForm\BTLT1\Cau_03\ChuyenDoiNhietDo\obj\Debug\net10.0\ChuyenDo.7CC8DF71.Up2Date

@@ -1,0 +1,15 @@
+D:\IT\WinForm\BTLT1\Cau_10\DemSoNguyenTo\bin\Debug\net10.0\DemSoNguyenTo.exe
+D:\IT\WinForm\BTLT1\Cau_10\DemSoNguyenTo\bin\Debug\net10.0\DemSoNguyenTo.deps.json
+D:\IT\WinForm\BTLT1\Cau_10\DemSoNguyenTo\bin\Debug\net10.0\DemSoNguyenTo.runtimeconfig.json
+D:\IT\WinForm\BTLT1\Cau_10\DemSoNguyenTo\bin\Debug\net10.0\DemSoNguyenTo.dll
+D:\IT\WinForm\BTLT1\Cau_10\DemSoNguyenTo\bin\Debug\net10.0\DemSoNguyenTo.pdb
+D:\IT\WinForm\BTLT1\Cau_10\DemSoNguyenTo\obj\Debug\net10.0\DemSoNguyenTo.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\WinForm\BTLT1\Cau_10\DemSoNguyenTo\obj\Debug\net10.0\DemSoNguyenTo.AssemblyInfoInputs.cache
+D:\IT\WinForm\BTLT1\Cau_10\DemSoNguyenTo\obj\Debug\net10.0\DemSoNguyenTo.AssemblyInfo.cs
+D:\IT\WinForm\BTLT1\Cau_10\DemSoNguyenTo\obj\Debug\net10.0\DemSoNguyenTo.csproj.CoreCompileInputs.cache
+D:\IT\WinForm\BTLT1\Cau_10\DemSoNguyenTo\obj\Debug\net10.0\DemSoNguyenTo.dll
+D:\IT\WinForm\BTLT1\Cau_10\DemSoNguyenTo\obj\Debug\net10.0\refint\DemSoNguyenTo.dll
+D:\IT\WinForm\BTLT1\Cau_10\DemSoNguyenTo\obj\Debug\net10.0\DemSoNguyenTo.pdb
+D:\IT\WinForm\BTLT1\Cau_10\DemSoNguyenTo\obj\Debug\net10.0\DemSoNguyenTo.genruntimeconfig.cache
+D:\IT\WinForm\BTLT1\Cau_10\DemSoNguyenTo\obj\Debug\net10.0\ref\DemSoNguyenTo.dll
+D:\IT\WinForm\BTLT1\Cau_10\DemSoNguyenTo\obj\Debug\net10.0\DemSoNgu.DA2CE81A.Up2Date
