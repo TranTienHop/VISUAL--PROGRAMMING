@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net472</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>Cau5</RootNamespace>
+    <AssemblyName>Cau5</AssemblyName>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+</Project>

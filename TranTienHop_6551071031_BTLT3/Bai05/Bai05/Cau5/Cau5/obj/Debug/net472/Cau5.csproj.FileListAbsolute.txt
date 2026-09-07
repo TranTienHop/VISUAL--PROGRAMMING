@@ -1,0 +1,11 @@
+D:\IT\C#\6551071031_BTLT2\Bai05\Cau5\Cau5\bin\Debug\net472\Cau5.exe.config
+D:\IT\C#\6551071031_BTLT2\Bai05\Cau5\Cau5\bin\Debug\net472\Cau5.exe
+D:\IT\C#\6551071031_BTLT2\Bai05\Cau5\Cau5\bin\Debug\net472\Cau5.pdb
+D:\IT\C#\6551071031_BTLT2\Bai05\Cau5\Cau5\obj\Debug\net472\Cau5.csproj.AssemblyReference.cache
+D:\IT\C#\6551071031_BTLT2\Bai05\Cau5\Cau5\obj\Debug\net472\Cau5.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\C#\6551071031_BTLT2\Bai05\Cau5\Cau5\obj\Debug\net472\Cau5.AssemblyInfoInputs.cache
+D:\IT\C#\6551071031_BTLT2\Bai05\Cau5\Cau5\obj\Debug\net472\Cau5.AssemblyInfo.cs
+D:\IT\C#\6551071031_BTLT2\Bai05\Cau5\Cau5\obj\Debug\net472\Cau5.csproj.CoreCompileInputs.cache
+D:\IT\C#\6551071031_BTLT2\Bai05\Cau5\Cau5\obj\Debug\net472\Cau5.sourcelink.json
+D:\IT\C#\6551071031_BTLT2\Bai05\Cau5\Cau5\obj\Debug\net472\Cau5.exe
+D:\IT\C#\6551071031_BTLT2\Bai05\Cau5\Cau5\obj\Debug\net472\Cau5.pdb
