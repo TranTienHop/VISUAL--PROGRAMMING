@@ -1,0 +1,16 @@
+D:\IT\C#\6551071031_BTLT2\QuanLiSanPhamCuaHang\bin\Debug\net10.0\QuanLiSanPhamCuaHang.exe
+D:\IT\C#\6551071031_BTLT2\QuanLiSanPhamCuaHang\bin\Debug\net10.0\QuanLiSanPhamCuaHang.deps.json
+D:\IT\C#\6551071031_BTLT2\QuanLiSanPhamCuaHang\bin\Debug\net10.0\QuanLiSanPhamCuaHang.runtimeconfig.json
+D:\IT\C#\6551071031_BTLT2\QuanLiSanPhamCuaHang\bin\Debug\net10.0\QuanLiSanPhamCuaHang.dll
+D:\IT\C#\6551071031_BTLT2\QuanLiSanPhamCuaHang\bin\Debug\net10.0\QuanLiSanPhamCuaHang.pdb
+D:\IT\C#\6551071031_BTLT2\QuanLiSanPhamCuaHang\obj\Debug\net10.0\QuanLiSanPhamCuaHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\C#\6551071031_BTLT2\QuanLiSanPhamCuaHang\obj\Debug\net10.0\QuanLiSanPhamCuaHang.AssemblyInfoInputs.cache
+D:\IT\C#\6551071031_BTLT2\QuanLiSanPhamCuaHang\obj\Debug\net10.0\QuanLiSanPhamCuaHang.AssemblyInfo.cs
+D:\IT\C#\6551071031_BTLT2\QuanLiSanPhamCuaHang\obj\Debug\net10.0\QuanLiSanPhamCuaHang.csproj.CoreCompileInputs.cache
+D:\IT\C#\6551071031_BTLT2\QuanLiSanPhamCuaHang\obj\Debug\net10.0\QuanLiSanPhamCuaHang.sourcelink.json
+D:\IT\C#\6551071031_BTLT2\QuanLiSanPhamCuaHang\obj\Debug\net10.0\QuanLiSanPhamCuaHang.dll
+D:\IT\C#\6551071031_BTLT2\QuanLiSanPhamCuaHang\obj\Debug\net10.0\refint\QuanLiSanPhamCuaHang.dll
+D:\IT\C#\6551071031_BTLT2\QuanLiSanPhamCuaHang\obj\Debug\net10.0\QuanLiSanPhamCuaHang.pdb
+D:\IT\C#\6551071031_BTLT2\QuanLiSanPhamCuaHang\obj\Debug\net10.0\QuanLiSanPhamCuaHang.genruntimeconfig.cache
+D:\IT\C#\6551071031_BTLT2\QuanLiSanPhamCuaHang\obj\Debug\net10.0\ref\QuanLiSanPhamCuaHang.dll
+D:\IT\C#\6551071031_BTLT2\QuanLiSanPhamCuaHang\obj\Debug\net10.0\QuanLiSa.005FB00F.Up2Date
