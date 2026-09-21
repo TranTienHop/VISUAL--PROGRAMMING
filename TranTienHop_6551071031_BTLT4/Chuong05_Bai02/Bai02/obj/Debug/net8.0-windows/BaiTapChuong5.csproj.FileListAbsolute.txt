@@ -1,0 +1,14 @@
+D:\BaiTapChuong5\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.exe
+D:\BaiTapChuong5\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.deps.json
+D:\BaiTapChuong5\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.runtimeconfig.json
+D:\BaiTapChuong5\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.dll
+D:\BaiTapChuong5\BaiTapChuong5\bin\Debug\net8.0-windows\BaiTapChuong5.pdb
+D:\BaiTapChuong5\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTapChuong5\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.AssemblyInfoInputs.cache
+D:\BaiTapChuong5\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.AssemblyInfo.cs
+D:\BaiTapChuong5\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.csproj.CoreCompileInputs.cache
+D:\BaiTapChuong5\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.dll
+D:\BaiTapChuong5\BaiTapChuong5\obj\Debug\net8.0-windows\refint\BaiTapChuong5.dll
+D:\BaiTapChuong5\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.pdb
+D:\BaiTapChuong5\BaiTapChuong5\obj\Debug\net8.0-windows\BaiTapChuong5.genruntimeconfig.cache
+D:\BaiTapChuong5\BaiTapChuong5\obj\Debug\net8.0-windows\ref\BaiTapChuong5.dll
