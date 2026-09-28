@@ -1,0 +1,17 @@
+E:\Winform1\Câu3\Câu3\obj\Debug\net10.0-windows\Câu3.FormNhapDiem.resources
+E:\Winform1\Câu3\Câu3\obj\Debug\net10.0-windows\Câu3.csproj.GenerateResource.cache
+E:\Winform1\Câu3\Câu3\obj\Debug\net10.0-windows\Câu3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Winform1\Câu3\Câu3\obj\Debug\net10.0-windows\Câu3.AssemblyInfoInputs.cache
+E:\Winform1\Câu3\Câu3\obj\Debug\net10.0-windows\Câu3.AssemblyInfo.cs
+E:\Winform1\Câu3\Câu3\obj\Debug\net10.0-windows\Câu3.csproj.CoreCompileInputs.cache
+E:\Winform1\Câu3\Câu3\bin\Debug\net10.0-windows\Câu3.exe
+E:\Winform1\Câu3\Câu3\bin\Debug\net10.0-windows\Câu3.deps.json
+E:\Winform1\Câu3\Câu3\bin\Debug\net10.0-windows\Câu3.runtimeconfig.json
+E:\Winform1\Câu3\Câu3\bin\Debug\net10.0-windows\Câu3.dll
+E:\Winform1\Câu3\Câu3\bin\Debug\net10.0-windows\Câu3.pdb
+E:\Winform1\Câu3\Câu3\obj\Debug\net10.0-windows\Câu3.dll
+E:\Winform1\Câu3\Câu3\obj\Debug\net10.0-windows\refint\Câu3.dll
+E:\Winform1\Câu3\Câu3\obj\Debug\net10.0-windows\Câu3.pdb
+E:\Winform1\Câu3\Câu3\obj\Debug\net10.0-windows\Câu3.genruntimeconfig.cache
+E:\Winform1\Câu3\Câu3\obj\Debug\net10.0-windows\ref\Câu3.dll
+E:\Winform1\Câu3\Câu3\obj\Debug\net10.0-windows\Câu3.csproj.Up2Date
