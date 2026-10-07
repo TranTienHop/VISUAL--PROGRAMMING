@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT\\C#\\TranTienHop_6551071031_BTLT7\\Bai03\\Bai03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3BA99-9F34-F3ED-A1E1-C7AE1ABD394E}|Bai03.csproj|d:\\it\\c#\\trantienhop_6551071031_btlt7\\bai03\\bai03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45C3BA99-9F34-F3ED-A1E1-C7AE1ABD394E}|Bai03.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F3DA0A6-EF1D-EFC4-2D21-B262808993CD}|Bai03.csproj|D:\\IT\\C#\\TranTienHop_6551071031_BTLT7\\Bai03\\Bai03\\quanliloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F3DA0A6-EF1D-EFC4-2D21-B262808993CD}|Bai03.csproj|solutionrelative:quanliloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3BA99-9F34-F3ED-A1E1-C7AE1ABD394E}|Bai03.csproj|d:\\it\\c#\\trantienhop_6551071031_btlt7\\bai03\\bai03\\models\\sunrisehomestaydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C3BA99-9F34-F3ED-A1E1-C7AE1ABD394E}|Bai03.csproj|solutionrelative:models\\sunrisehomestaydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SunriseHomestayDBContext.cs",
+              "DocumentMoniker": "D:\\IT\\C#\\TranTienHop_6551071031_BTLT7\\Bai03\\Bai03\\Models\\SunriseHomestayDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\SunriseHomestayDBContext.cs",
+              "ToolTip": "D:\\IT\\C#\\TranTienHop_6551071031_BTLT7\\Bai03\\Bai03\\Models\\SunriseHomestayDBContext.cs",
+              "RelativeToolTip": "Models\\SunriseHomestayDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T02:25:27.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\C#\\TranTienHop_6551071031_BTLT7\\Bai03\\Bai03\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\IT\\C#\\TranTienHop_6551071031_BTLT7\\Bai03\\Bai03\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T01:37:13.714Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLiLoaiPhong.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\C#\\TranTienHop_6551071031_BTLT7\\Bai03\\Bai03\\QuanLiLoaiPhong.cs",
+              "RelativeDocumentMoniker": "QuanLiLoaiPhong.cs",
+              "ToolTip": "D:\\IT\\Winform\\day_5_10\\QuanLiLoaiPhong.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\Winform\\day_5_10\\QuanLiLoaiPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T02:30:27.918Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
