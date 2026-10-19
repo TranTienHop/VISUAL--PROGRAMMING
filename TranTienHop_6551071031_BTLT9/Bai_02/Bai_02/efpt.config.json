@@ -1,0 +1,15 @@
+{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "QlNhaTroContext",
+   "IncludeConnectionString": false,
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "Bai_02",
+   "Tables": [
+      { "Name": "[dbo].[PhongTro]", "ObjectType": 0 },
+      { "Name": "[dbo].[KhachThue]", "ObjectType": 0 }
+   ],
+   "UseDateOnlyTimeOnly": true,
+   "UseFluentApiOnly": true,
+   "UseInflector": true,
+   "UseNoNavigations": false
+}
